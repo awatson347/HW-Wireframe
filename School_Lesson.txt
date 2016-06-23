@@ -1,0 +1,66 @@
+  
+Having trouble viewing this email? Click here 
+
+   
+  
+Hello Students, 
+  
+I have some incredibly exciting news about your UCF Coding Boot Camp experience. Through the hard work and support of our team we have developed a brand new tool for you to use throughout our program to track your attendance and homework submissions. Please allow me to introduce you to Bootcampspot.com. 
+  
+Below you will find detailed instructions on how to manage the new tool that, both, You and your Instructional Team will be using to manage attendance and homework. Your first assignment is your required pre-work for class. Follow the directions below to locate the assignment and submit your pre-work.  
+  
+It is important to note that all attendance and homework will be logged using this tool and failure to accurately submit your assignments and log your attendance will be made evident and tracked through this website. We recommend that you bookmark it for ease of access.  
+  
+Please feel free to reach out to myself, your instructors, or your TA’s with further questions. 
+  
+Thanks so much! 
+  
+Ricky Cuellar 
+Director of Student Success 
+321-274-5530 
+  
+Please see instructions below: 
+  
+How to submit your pre-work: 
+  
+1.	Go to bootcampspot.com 
+2.	Click on the button in the middle that says LOG IN WITH GITHUB.  
+3.	You will need your github username and password to login (however, if you are already logged into github in the browser then you will not need to input your  GitHub username and password) 
+4.	If you can't login, then your account was not added by your Student Success Manager. Please contact them and provide your GitHub username. 
+5.	Look to the left and click on the Homework tab 
+6.	Choose the homework assigned to you. Click on the blue "Assignment" link to view the assignment.   
+7.	Under Submit Homework, enter the urls to your GitHub repository, heroku link and any other relevant urls to your homework assignment.  
+8.	In the Notes section, add anything you'd like to share with your Instructors/TAs/Student Success Manager 
+9.	Click Submit 
+  
+How to submit your attendance: 
+  
+To be marked as present, as soon as you enter the class, you will mark yourself present on bootcampspot.com. 
+  
+To be marked as on time, you will have to mark yourself present on bootcampspot.com latest by 6:30 PM (on weekdays) and latest by 10:00 AM (on Saturdays). 
+  
+1.	Go to bootcampspot.com 
+2.	Click on the button in the middle that says LOG IN WITH GITHUB.  
+3.	You will need your GitHub username and password to login (however, if you are already logged into  GitHub in the browser then you will not need to input your  GitHub username and password) 
+4.	If you can't login, then your account was not added by your Student Success Manager. Please contact them. 
+5.	Look to the left and click on the Attendance tab 
+6.	Choose your class from the dropdown. 
+7.	Click the button at the top right that says MARK AS PRESENT 
+  
+How to excuse yourself from a homework: 
+  
+1.	Go to bootcampspot.com 
+2.	Click on the button in the middle that says LOG IN WITH GITHUB.  
+3.	You will need your GitHub username and password to login (however, if you are already logged into GitHub in the browser then you will not need to input your GitHub username and password) 
+4.	If you can't login, then your account was not added by your Student Success Manager. Please contact them. 
+5.	Look to the left and click on the Homework tab 
+6.	Choose the homework assigned to you. 
+7.	If you believe you should be excused from the homework, then mark yourself excused and add a note in as why you believe you should be excused.  
+8.	Your excuse can be rejected by your Instructor/TAs/Student Success Manager, and then you'll be on the hook for the homework assignment. 
+UCF Coding Boot Camp 3280 Progress Drive, Suite 700 Orlando, Florida 32826 United States 
+
+
+ 
+
+If you no longer wish to receive our emails, click the link below:
+ Unsubscribe
