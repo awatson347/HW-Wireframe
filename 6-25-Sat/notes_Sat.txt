@@ -1,0 +1,10 @@
+wide 444
+height 484
+554
+
+box modle study
+text expander
+
+.clearfix {overflow: auto;}
+
+floats and postioning-chrome inspector
